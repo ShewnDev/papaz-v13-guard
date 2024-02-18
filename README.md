@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=shewnsex&color=yellow"/>
 </div>
 
-<a href="https://discord.gg/botstudio" target="_blank">Discord sunucumuza katıl!</a>
+<a href="https://discord.gg/codezone" target="_blank">Discord sunucumuza katıl!</a>
 
 
 Size sunduğum Düşman Çatlatan Guard projesi ile ilgili herhangi bir sorun olursa bana veya "lexuizm" e Discord'dan ulaşabilirsiniz.
@@ -35,14 +35,6 @@ Terminalden "npm i" yazarak modülleri indiriniz
  <img width="450" alt="image" src="https://prnt.sc/dy9JsdWTmsp2">
  <img width="450" alt="image" src="https://prnt.sc/iuyxZG9siDlz">
  <img width="450" alt="image" src="https://prnt.sc/WCT7QkzFnLe5">
-
-![image](https://prnt.sc/axpQK55fOlTC)
-![image](https://prnt.sc/hZiCSdc6njSA)
-![image](https://prnt.sc/WgApb4NLYjxt)
-![image](https://prnt.sc/dy9JsdWTmsp2)
-![image](https://prnt.sc/iuyxZG9siDlz)
-![image](https://prnt.sc/WCT7QkzFnLe5)
-</details>
 
 
  <p align="center">
